@@ -1,0 +1,17 @@
+ #root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background:url(https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124672.jpg?w=996&t=st=1667829067~exp=1667829667~hmac=336d26840db354b8f1f80e0f0ed5d9ccb8a5c3283893690dd8675cb2d1a88617);
+    background-size: cover;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior:smooth;
+}
