@@ -9,4 +9,4 @@ Setup:
 
 Website:
 
-www.newsalan.netlify.app
+https://newsalan.netlify.app/
